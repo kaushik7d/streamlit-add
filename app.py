@@ -10,5 +10,5 @@ if (num1).is_integer() and (num2).is_integer():
     sum=num1+num2
     #st.write("the addition result is", sum)
     st.subheader('the addition result is:')
-    print(sum)
+    st.write(sum)
 else:st.write("please enter integer number")
